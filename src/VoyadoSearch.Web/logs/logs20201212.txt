@@ -1,5 +1,0 @@
-2020-12-12 20:54:13.431 +01:00 [ERR] - Generating browser application bundles...
-
-2020-12-12 20:54:17.446 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
-
-2020-12-12 20:54:29.060 +01:00 [ERR] ^C
