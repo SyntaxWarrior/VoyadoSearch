@@ -1,0 +1,572 @@
+2020-12-13 13:35:04.451 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 13:50:17.003 +01:00 [INF] Migration start.
+2020-12-13 13:50:25.059 +01:00 [INF] Migration start.
+2020-12-13 13:50:25.404 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 13:50:27.133 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 13:50:27.136 +01:00 [INF] Migration to apply: [20201213123504_initial].
+2020-12-13 13:50:27.810 +01:00 [INF] Migrations complete.
+2020-12-13 13:50:32.158 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 13:50:36.351 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 13:55:49.318 +01:00 [INF] Migration start.
+2020-12-13 14:00:04.500 +01:00 [INF] Migration start.
+2020-12-13 14:00:04.812 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 14:00:05.832 +01:00 [INF] No migrations to apply.
+2020-12-13 14:00:05.835 +01:00 [INF] Migrations complete.
+2020-12-13 14:00:08.491 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 14:00:28.300 +01:00 [INF] Migration start.
+2020-12-13 14:00:28.607 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 14:00:28.848 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 14:00:28.851 +01:00 [INF] Migration to apply: [20201213123504_initial].
+2020-12-13 14:00:29.373 +01:00 [INF] Migrations complete.
+2020-12-13 14:00:32.029 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 15:00:14.493 +01:00 [INF] Migration start.
+2020-12-13 15:00:14.860 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 15:00:15.947 +01:00 [INF] No migrations to apply.
+2020-12-13 15:00:15.949 +01:00 [INF] Migrations complete.
+2020-12-13 15:00:18.743 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 15:29:02.529 +01:00 [INF] Migration start.
+2020-12-13 15:29:02.918 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 15:29:04.125 +01:00 [INF] No migrations to apply.
+2020-12-13 15:29:04.128 +01:00 [INF] Migrations complete.
+2020-12-13 15:29:04.769 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method2(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 15:29:04.881 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Swashbuckle.AspNetCore.Swagger.ISwaggerProvider' while attempting to Invoke middleware 'Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware'.
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method2(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 15:29:06.821 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 15:29:10.801 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 15:30:35.481 +01:00 [INF] Migration start.
+2020-12-13 15:30:35.808 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 15:30:36.135 +01:00 [INF] No migrations to apply.
+2020-12-13 15:30:36.138 +01:00 [INF] Migrations complete.
+2020-12-13 15:30:38.829 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 15:30:42.857 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 16:22:01.451 +01:00 [INF] Migration start.
+2020-12-13 16:22:01.766 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 16:22:02.903 +01:00 [INF] No migrations to apply.
+2020-12-13 16:22:02.905 +01:00 [INF] Migrations complete.
+2020-12-13 16:22:05.705 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 16:22:09.837 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 16:23:03.921 +01:00 [INF] Migration start.
+2020-12-13 16:23:04.244 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 16:23:04.566 +01:00 [INF] No migrations to apply.
+2020-12-13 16:23:04.570 +01:00 [INF] Migrations complete.
+2020-12-13 16:23:07.268 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 16:23:11.301 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 16:23:30.598 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'VoyadoSearch.Domain.Abstract.Processes.IListSearchEnginesProcess' while attempting to activate 'VoyagoSearch.Web.Controllers.SearchController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method10(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 16:24:39.038 +01:00 [INF] Migration start.
+2020-12-13 16:24:39.364 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 16:24:39.688 +01:00 [INF] No migrations to apply.
+2020-12-13 16:24:39.691 +01:00 [INF] Migrations complete.
+2020-12-13 16:24:42.379 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 16:24:46.418 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 20:52:58.839 +01:00 [INF] Migration start.
+2020-12-13 20:52:59.206 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 20:53:00.284 +01:00 [INF] No migrations to apply.
+2020-12-13 20:53:00.287 +01:00 [INF] Migrations complete.
+2020-12-13 20:53:03.127 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 20:53:07.324 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 20:54:12.161 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 20:55:46.198 +01:00 [INF] Migration start.
+2020-12-13 20:55:46.514 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 20:55:46.927 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 20:55:46.930 +01:00 [INF] Migration to apply: [20201213195412_initial].
+2020-12-13 20:55:46.969 +01:00 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [search].[History] (
+    [Id] uniqueidentifier NOT NULL,
+    [Term] nvarchar(max) NULL,
+    [Created] datetimeoffset NULL,
+    [Updated] datetimeoffset NULL,
+    CONSTRAINT [PK_History] PRIMARY KEY ([Id])
+);
+2020-12-13 20:57:58.145 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 20:58:17.389 +01:00 [INF] Migration start.
+2020-12-13 20:58:17.690 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 20:58:17.932 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 20:58:17.935 +01:00 [INF] Migration to apply: [20201213195758_init].
+2020-12-13 20:58:18.408 +01:00 [INF] Migrations complete.
+2020-12-13 20:58:21.126 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 20:58:25.176 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:11:44.278 +01:00 [INF] Migration start.
+2020-12-13 21:11:44.596 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:11:44.926 +01:00 [INF] No migrations to apply.
+2020-12-13 21:11:44.929 +01:00 [INF] Migrations complete.
+2020-12-13 21:11:47.626 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:11:51.677 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:14:15.155 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside 'OnConfiguring' since it is still being configured at this point. This can happen if a second operation is started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at VoyadoSearch.Domain.Processes.CacheSearchProcess.Search(String term, String engineId, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\CacheSearchProcess.cs:line 29
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 90
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 70
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method9(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 21:17:40.993 +01:00 [INF] Migration start.
+2020-12-13 21:17:41.316 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:17:41.641 +01:00 [INF] No migrations to apply.
+2020-12-13 21:17:41.644 +01:00 [INF] Migrations complete.
+2020-12-13 21:17:44.342 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:17:48.335 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:18:29.242 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside 'OnConfiguring' since it is still being configured at this point. This can happen if a second operation is started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at VoyadoSearch.Domain.Processes.CacheSearchProcess.Search(String term, String engineId, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\CacheSearchProcess.cs:line 29
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 90
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 70
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 21:30:51.619 +01:00 [INF] Migration start.
+2020-12-13 21:30:51.926 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:30:52.261 +01:00 [INF] No migrations to apply.
+2020-12-13 21:30:52.264 +01:00 [INF] Migrations complete.
+2020-12-13 21:30:54.975 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:30:58.977 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:32:06.705 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'VoyadoSearch.Persistence.ApplicationDbContext'.
+System.InvalidOperationException: The configured execution strategy 'SqlServerRetryingExecutionStrategy' does not support user-initiated transactions. Use the execution strategy returned by 'DbContext.Database.CreateExecutionStrategy()' to execute all the operations in the transaction as a retriable unit.
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.OnFirstExecution()
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.InvalidOperationException: The configured execution strategy 'SqlServerRetryingExecutionStrategy' does not support user-initiated transactions. Use the execution strategy returned by 'DbContext.Database.CreateExecutionStrategy()' to execute all the operations in the transaction as a retriable unit.
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.OnFirstExecution()
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-13 21:32:06.817 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The configured execution strategy 'SqlServerRetryingExecutionStrategy' does not support user-initiated transactions. Use the execution strategy returned by 'DbContext.Database.CreateExecutionStrategy()' to execute all the operations in the transaction as a retriable unit.
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.OnFirstExecution()
+   at Microsoft.EntityFrameworkCore.Storage.ExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at VoyadoSearch.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in W:\Code\Voyago\src\VoyadoSearch.Persistence\ApplicationDbContext.cs:line 37
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 109
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 73
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 21:33:09.694 +01:00 [INF] Migration start.
+2020-12-13 21:34:09.306 +01:00 [INF] Migration start.
+2020-12-13 21:34:09.628 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:34:09.949 +01:00 [INF] No migrations to apply.
+2020-12-13 21:34:09.952 +01:00 [INF] Migrations complete.
+2020-12-13 21:34:12.644 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:34:16.697 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:34:54.068 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'VoyadoSearch.Persistence.ApplicationDbContext'.
+System.ArgumentException: Cannot save changes for an entity in state 'Unchanged'.
+   at Microsoft.EntityFrameworkCore.Update.ModificationCommand.AddEntry(IUpdateEntry entry, Boolean mainEntry)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.CreateModificationCommands(IList`1 entries, IUpdateAdapter updateAdapter, Func`1 generateParameterName)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.BatchCommands(IList`1 entries, IUpdateAdapter updateAdapter)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.ArgumentException: Cannot save changes for an entity in state 'Unchanged'.
+   at Microsoft.EntityFrameworkCore.Update.ModificationCommand.AddEntry(IUpdateEntry entry, Boolean mainEntry)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.CreateModificationCommands(IList`1 entries, IUpdateAdapter updateAdapter, Func`1 generateParameterName)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.BatchCommands(IList`1 entries, IUpdateAdapter updateAdapter)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-13 21:34:54.120 +01:00 [ERR] An exception occurred in the database while saving changes for context type 'VoyadoSearch.Persistence.ApplicationDbContext'.
+System.InvalidOperationException: A second operation was started on this context before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.InvalidOperationException: A second operation was started on this context before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-13 21:34:54.214 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Cannot save changes for an entity in state 'Unchanged'.
+   at Microsoft.EntityFrameworkCore.Update.ModificationCommand.AddEntry(IUpdateEntry entry, Boolean mainEntry)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.CreateModificationCommands(IList`1 entries, IUpdateAdapter updateAdapter, Func`1 generateParameterName)
+   at Microsoft.EntityFrameworkCore.Update.Internal.CommandBatchPreparer.BatchCommands(IList`1 entries, IUpdateAdapter updateAdapter)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at VoyadoSearch.Persistence.ApplicationDbContext.SaveChangesAsync(CancellationToken cancellationToken) in W:\Code\Voyago\src\VoyadoSearch.Persistence\ApplicationDbContext.cs:line 37
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 109
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 73
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 21:40:35.588 +01:00 [INF] Migration start.
+2020-12-13 21:40:35.913 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:40:36.201 +01:00 [INF] No migrations to apply.
+2020-12-13 21:40:36.204 +01:00 [INF] Migrations complete.
+2020-12-13 21:40:38.936 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:40:42.985 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:42:43.290 +01:00 [INF] Migration start.
+2020-12-13 21:42:43.606 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:42:43.940 +01:00 [INF] No migrations to apply.
+2020-12-13 21:42:43.943 +01:00 [INF] Migrations complete.
+2020-12-13 21:42:46.652 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:42:50.665 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:47:24.688 +01:00 [INF] Migration start.
+2020-12-13 21:47:25.021 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:47:25.271 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 21:47:25.274 +01:00 [INF] Migration to apply: [20201213195758_init].
+2020-12-13 21:47:25.928 +01:00 [INF] Migrations complete.
+2020-12-13 21:47:28.616 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:47:32.677 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:50:07.163 +01:00 [INF] Migration start.
+2020-12-13 21:50:07.485 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:50:07.801 +01:00 [INF] No migrations to apply.
+2020-12-13 21:50:07.803 +01:00 [INF] Migrations complete.
+2020-12-13 21:50:10.510 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:50:14.562 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 21:51:14.336 +01:00 [INF] Migration start.
+2020-12-13 21:51:14.658 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 21:51:14.958 +01:00 [INF] No migrations to apply.
+2020-12-13 21:51:14.961 +01:00 [INF] Migrations complete.
+2020-12-13 21:51:17.647 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 21:51:21.736 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:25:24.285 +01:00 [INF] Migration start.
+2020-12-13 22:25:24.594 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:25:25.631 +01:00 [INF] No migrations to apply.
+2020-12-13 22:25:25.633 +01:00 [INF] Migrations complete.
+2020-12-13 22:25:28.492 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:25:32.867 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:28:53.985 +01:00 [INF] Migration start.
+2020-12-13 22:28:54.298 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:28:54.627 +01:00 [INF] No migrations to apply.
+2020-12-13 22:28:54.630 +01:00 [INF] Migrations complete.
+2020-12-13 22:28:57.450 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:29:01.531 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:33:18.852 +01:00 [INF] Migration start.
+2020-12-13 22:33:19.165 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:33:19.496 +01:00 [INF] No migrations to apply.
+2020-12-13 22:33:19.499 +01:00 [INF] Migrations complete.
+2020-12-13 22:33:22.203 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:33:26.254 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:34:05.667 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'int.Parse(string)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at VoyadoSearch.Integrations.Engines.Bing.BingSearchEngine.BingWebSearch(String searchQuery) in W:\Code\Voyago\src\VoyadoSearch.Integrations.Engines.Bing\BingSearchEngine.cs:line 57
+   at VoyadoSearch.Integrations.Engines.Bing.BingSearchEngine.Search(String searchTerm) in W:\Code\Voyago\src\VoyadoSearch.Integrations.Engines.Bing\BingSearchEngine.cs:line 30
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 111
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 73
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 22:34:52.745 +01:00 [INF] Migration start.
+2020-12-13 22:34:53.065 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:34:53.404 +01:00 [INF] No migrations to apply.
+2020-12-13 22:34:53.407 +01:00 [INF] Migrations complete.
+2020-12-13 22:34:56.141 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:35:00.782 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:48:01.777 +01:00 [INF] Migration start.
+2020-12-13 22:48:02.150 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:48:03.326 +01:00 [INF] No migrations to apply.
+2020-12-13 22:48:03.329 +01:00 [INF] Migrations complete.
+2020-12-13 22:48:06.072 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:48:10.102 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:48:33.546 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.OverflowException: Value was either too large or too small for an Int32.
+   at System.Convert.ThrowInt32OverflowException()
+   at System.Convert.ToInt32(Int64 value)
+   at System.Int64.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value, IFormatProvider provider)
+   at Newtonsoft.Json.Linq.JToken.op_Explicit(JToken value)
+   at Newtonsoft.Json.Linq.JValue.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at CallSite.Target(Closure , CallSite , Type , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at VoyadoSearch.Integrations.Engines.Bing.BingSearchEngine.Search(String searchTerm) in W:\Code\Voyago\src\VoyadoSearch.Integrations.Engines.Bing\BingSearchEngine.cs:line 44
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 111
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 73
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 22:50:54.555 +01:00 [INF] Migration start.
+2020-12-13 22:50:54.934 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:50:55.331 +01:00 [INF] No migrations to apply.
+2020-12-13 22:50:55.334 +01:00 [INF] Migrations complete.
+2020-12-13 22:50:58.052 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:51:02.083 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:51:22.580 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: The best overloaded method match for 'VoyadoSearch.Integrations.Engines.Bing.SearchEngineResult.SearchEngineResult(string, int)' has some invalid arguments
+   at CallSite.Target(Closure , CallSite , Type , String , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute3[T0,T1,T2,TRet](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at VoyadoSearch.Integrations.Engines.Bing.BingSearchEngine.Search(String searchTerm) in W:\Code\Voyago\src\VoyadoSearch.Integrations.Engines.Bing\BingSearchEngine.cs:line 46
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.<>c__DisplayClass7_0.<<SearchForTerm>b__0>d.MoveNext() in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 111
+--- End of stack trace from previous location ---
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 73
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 22:52:03.609 +01:00 [INF] Migration start.
+2020-12-13 22:52:03.930 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:52:04.254 +01:00 [INF] No migrations to apply.
+2020-12-13 22:52:04.257 +01:00 [INF] Migrations complete.
+2020-12-13 22:52:07.025 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:52:11.039 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 22:52:45.866 +01:00 [ERR] An exception occurred while iterating over the results of a query for context type 'VoyadoSearch.Persistence.ApplicationDbContext'.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Int64'.
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Int64()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetInt64(Int32 i)
+   at lambda_method48(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Int64'.
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Int64()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetInt64(Int32 i)
+   at lambda_method48(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2020-12-13 22:52:45.933 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Int64'.
+   at Microsoft.Data.SqlClient.SqlBuffer.get_Int64()
+   at Microsoft.Data.SqlClient.SqlDataReader.GetInt64(Int32 i)
+   at lambda_method48(Closure , QueryContext , DbDataReader , ResultContext , SingleQueryResultCoordinator )
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at VoyadoSearch.Domain.Processes.SearchQueryProcess.Search(String[] searchEngines, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Domain\Processes\SearchQueryProcess.cs:line 55
+   at VoyadoSearch.Web.Controllers.SearchController.Query(String[] enginesToUse, String searchTerms, CancellationToken ct) in W:\Code\Voyago\src\VoyadoSearch.Web\Controllers\SearchController.cs:line 30
+   at lambda_method7(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-13 22:53:41.434 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:54:19.921 +01:00 [INF] Migration start.
+2020-12-13 22:54:20.243 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 22:54:20.489 +01:00 [INF] Applying 1 migrations to database.
+2020-12-13 22:54:20.492 +01:00 [INF] Migration to apply: [20201213215341_initial].
+2020-12-13 22:54:21.306 +01:00 [INF] Migrations complete.
+2020-12-13 22:54:24.028 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 22:54:28.074 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-13 23:22:21.290 +01:00 [INF] Migration start.
+2020-12-13 23:22:21.595 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-13 23:22:21.939 +01:00 [INF] No migrations to apply.
+2020-12-13 23:22:21.942 +01:00 [INF] Migrations complete.
+2020-12-13 23:22:24.762 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-13 23:22:28.844 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+

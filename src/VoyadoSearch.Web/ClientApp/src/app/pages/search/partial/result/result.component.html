@@ -1,0 +1,19 @@
+<div class="mb-5" >
+    <div class="row mt-3">
+        <div class="col-12 text-center mt-3 whiteBackground">
+            <h1>Totalt antal träffar: {{searchResults.totalHits}}</h1>
+            <h5>Sökningen tog {{searchResults.elapsedMilliseconds}} millisekunder.</h5>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-around">
+        <div class="col-12 col-lg-3 col-md-4 whiteBackground mt-5 ml-1 mr-1 pt-2" *ngFor="let engineResult of searchResults.results">
+            <div style="height:70px; width: 350px; text-align: center;">
+                <img class="card-img-top logo" src="/assets/engineLogos/{{engineResult.engineId}}Logo.png" alt="{{engineResult.displayName}}">
+            </div>
+            <div class="card-body text-center">
+                <h3>Träffar: {{engineResult.hitCount}}</h3>
+                <h4>Sökterm: {{engineResult.searchTerm}}</h4>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+2020-12-11
+Decided to go with .Net Core 5 as I am curious to what could be new in the latest version
+Also went with Angular as Im quite familiar with it and it should allow me to progress rather quickly.
+Going to be using a code structure similar to a few projects Ive built recently with DI. 
+
+Basically keep Domain in its own project, with Abstract classes in a supporting project and a Configuration project binding it together. 
+The same structure will be used for Persistance (database), and any integrations. This way any one component can easily be switched out for another at a later stage without much issue.
+This also helps keep the project easy to follow as dependencies are very contained within their area and dont leek into other parts.
+
+I would have liked to have Angular in its own project and build pipeline as a separate front end project, but as the guidelines specifically state one solution I'll build angular inside .net core. It can always be separated later on.
+
+In general Im building this project for it to be able to grow to something very large. For this specific case most of what I have done is overkill.
+
+2020-12-12
+Setting up project structure. Im going for DI for the domain to keep it away from the web app. Also having public contracts in a separate project in case there could be other consumers for the data besides the web api.
+
+Started thinking about how Im going to set up the search itself. I would like to make the Application/web layer as agnostic to it as possible.
+Ill probably also need some kind of database for caching as most services seem to have a low limit on how many queries you can make per day without paying. Maybe Ill get a chance to try out SQLLite, been wanting to do that.
+
+
+2020-12-13
+Backend strukturen är klar. Kör på strutkur för stort projekt (eftersom ni sa det skulle vara så). 
+Även fått klart bing integrationen. 

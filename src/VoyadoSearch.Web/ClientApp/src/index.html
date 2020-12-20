@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <title>Voyado Sök</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <meta name="description" content="Search service provided for Voyado>
+  <meta name="keywords" content="search, service, voyado">
+  <style >
+    .rotate {
+      animation: rotation 2s infinite linear;
+    }
+    @keyframes rotation {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(359deg);
+      }
+    }
+    .centered {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      transform: -webkit-translate(-50%, -50%);
+      transform: -moz-translate(-50%, -50%);
+      transform: -ms-translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body class="lightGrayBackground d-flex flex-column">
+  <app-root>
+    <div class="centered" style="text-align: center;">
+      <img title="loading" class=" rotate" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMTczbp9jAAADe0lEQVRYR7WX+08TQRDH+Vd8AIWWFtpCS988CwiBUEEepuKLqIRACFgoj4go0gKaiBYRDQkVNFDRCKiA/9s4c+Za9jp3vQD+8Lmwy3dm525mdrd5AHBm4ksvYeVNAtbWP0Dq6zec4nVasJN66OoJw1WDETFBodECBlMplNod0NwaghgGptSrwU7qoTZ4DS7lF7GYrRUo4e2UsJN6MFps7OJEdX0DSng7JexkbHEZLDYHeKvqcJiZPzo+Acp7qKNb+vTc4kTb9RuCnRZZE5S/gmJz2pmp1AZPn81Db/g25tgpLXy5oFhY8DT0P7e/Gl2JftUQBrtYyWXlTtbxlUIjO89BWofbDweHv9CtuKASYUCRcw7PCnXGLH498r3+cQN6wn3Q2X1TGsuk/xiLRFkn54WK1ROohfyiEik9lN6F+BIuqQigJtjEOvgfuHxV2QEQdQ3qvX0ayrHd6Yb6phZsuUasm0ppM+K0HPQlVhKruKQiAIKqnTOSseJiL2KZTygzPjkNxWYra8MR7rsn+RCcEPOxRdUetzncsJncQploI5NYfQ8W3AU5WyWB2iCaqHwBrs+pop/MPUeJqFcy+nhCc5+QobSRPstBXWMza0A5V2o5vv/Ylyqf8yF3Ab19dGoG5UwAXmwZzrgGi02pVcPh8rE+KD2J1TWUZLSCYSQ6pVpIdQ3NKMlotbA5XKwP7iWkR0dXr3T4aG23cs5y8fP3ERSXlLE+2vEQU+qlh572oeDkvGnxaHCY7SKyHx4ZQ4molx7lTk+WAYe5rBzeJsQcniYWX5a6hbOljWpjM4ky0UZ6tLSFWCMOStXIaASOT/6g6T8nO7speDgwBCaNSwpBLS7byEgPOhz09K5MPn5iajU7bkzllV6pcPXa+6vrcUlFAIQnUMMaXDQUaGt7By6pCGBmdi592zFgvvw1QbwN2Vkn5yXxLlNH6QCIW3fuw3h0GvYPDnGI58JC/MKDUL2QqHGExWatcGnuEUrUDjOXN3MPkBEGWnhz1AgFaDBZIICpi0xMwuLyK+yYzMlIL5Hc+oyuRL/CQAutGxNdt/ofDMD2lx2UinY+vNo73D5I7fE/3bIm1HB6/OziBF1SlHq9sJMcWsXYFupECW+XC3aS4zX+Cu672w90XFMwtBHRtkuff3BoBCW8XS7YST18xZzupvYg+Wkbh7wmN5D3F4Ai4e/jaV/YAAAAAElFTkSuQmCC"><br>
+      Laddar
+    </div>
+  </app-root>
+</body>
+</html>

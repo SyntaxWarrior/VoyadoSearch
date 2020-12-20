@@ -1,0 +1,25 @@
+<div class="row whiteBackground mt-5 pt-5 pb-2" *ngIf="_loading == false">
+    <div class="col-12 col-lg-6 col-md-6 col-sm-12 centered mt-4">
+        <form [formGroup]="_searchTextForm" (ngSubmit)="OnSearch()" *ngIf="!_loading">
+            <div class="input-group">
+                <input formControlName="searchText" type="text" class="form-control" placeholder="Sök">
+                <button type="submit" class="btn btn-dark"><fa-icon [icon]="['fas', 'search']"></fa-icon></button>
+            </div>
+            <div class="input-group">
+                <div *ngFor="let engine of EngineControlNames(); let i = index">
+                    <div class="form-check mr-2">
+                        <input [id]="engine" type="checkbox" class="form-check-input" [formControl]="GetControl(engine)"/>
+                        <label class="form-check-label ml-1" [for]="engine">{{ _searchEngines[i].displayName }}</label> 
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div *ngIf="_searching" class="col-12 padding-top-20 text-center mt-3">
+    <h5>Laddar &nbsp;<fa-icon [icon]="['fas', 'cog']" [spin]="true"></fa-icon>&nbsp;</h5>
+</div>
+
+<app-search-result *ngIf="_searchPerformed && _searchResults != null && _searching == false && _loading == false" [searchResults]="_searchResults"></app-search-result>
+<app-search-history-list *ngIf="_searching == false" (searchEvent)="ForceSearch($event)"></app-search-history-list>

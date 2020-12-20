@@ -1,0 +1,20 @@
+<div *ngIf="_loading" class="col-12 padding-top-20 text-center mt-3">
+    <h5>Laddar &nbsp;<fa-icon [icon]="['fas', 'cog']" [spin]="true"></fa-icon>&nbsp;</h5>
+</div>
+
+<div class="mt-4" *ngIf="_loading == false">
+    <div class="row">
+        <div class="col-12 text-center">
+            <h3>Historiska sökningar</h3>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-around">
+        <div (click)="searchFor(prev)" class="col-12 col-lg-3 col-md-4 text-center ml-1 mr-1 mb-4" *ngFor="let prev of _previousSearches">
+            <div class="historic-item">
+                <div class="card-body text-center">
+                    <h3>{{prev.term}}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

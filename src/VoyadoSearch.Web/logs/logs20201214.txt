@@ -1,0 +1,24 @@
+2020-12-14 19:56:44.249 +01:00 [INF] Migration start.
+2020-12-14 19:56:44.748 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-14 19:56:46.499 +01:00 [INF] No migrations to apply.
+2020-12-14 19:56:46.502 +01:00 [INF] Migrations complete.
+2020-12-14 19:56:51.059 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-14 19:56:55.268 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-14 21:23:33.257 +01:00 [INF] Migration start.
+2020-12-14 21:23:33.552 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-14 21:23:34.664 +01:00 [INF] No migrations to apply.
+2020-12-14 21:23:34.667 +01:00 [INF] Migrations complete.
+2020-12-14 21:23:37.461 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-14 21:23:41.513 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
+2020-12-14 21:25:27.416 +01:00 [INF] Migration start.
+2020-12-14 21:25:27.729 +01:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2020-12-14 21:25:28.053 +01:00 [INF] No migrations to apply.
+2020-12-14 21:25:28.056 +01:00 [INF] Migrations complete.
+2020-12-14 21:25:30.777 +01:00 [ERR] - Generating browser application bundles...
+
+2020-12-14 21:25:34.788 +01:00 [ERR] ΓêÜ Browser application bundle generation complete.
+
